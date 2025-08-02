@@ -59,7 +59,7 @@ Here are some key steps captured during the development and deployment of PathCr
 
 ### 🔹 3. Associating Watsonx.ai Runtime
 
-![Runtime Association](./3.CreateAndAssociate_Watsonx.ai_Runti.png)
+![Runtime Association](./3.CreateAndAssociate_Watsonx.ai_Runtime.png)
 
 ### 🔹 4. Associating Watsonx.ai Studio
 
@@ -71,7 +71,7 @@ Here are some key steps captured during the development and deployment of PathCr
 
 ### 🔹 6. Agent Profile & Quick Start Questions
 
-![Quick Start Setup](./6.AgentProfileAnd QuickStartQuestions.png)
+![Quick Start Setup](./6.AgentProfileAndQuickStartQuestions.png)
 
 ### 🔹 7. Adding Instructions to Define Behavior
 
@@ -79,7 +79,7 @@ Here are some key steps captured during the development and deployment of PathCr
 
 ### 🔹 8. Adding Required Tools
 
-![Tool Setup](./8.Adding Tools.png)
+![Tool Setup](./8.AddingTools.png)
 
 ### 🔹 9. Selecting the Foundation Model
 
@@ -103,7 +103,7 @@ Here are some key steps captured during the development and deployment of PathCr
 
 ### 🔹 14. API References and Integration
 
-![API References](./14.API References.png)
+![API References](./14.APIReferences.png)
 
 ---
 
